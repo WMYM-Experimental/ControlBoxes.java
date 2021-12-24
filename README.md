@@ -10,5 +10,5 @@ This will be a "clone" of "Kahoot"... But it will have my sign and style.
 
 ### Frontend
 
--JavaScript (DOM Manipulation and Animation)
+- JavaScript (DOM Manipulation and Animation)
 - Handelbars/CSS (Views and Style)
